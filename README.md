@@ -49,4 +49,4 @@ This project segments customers based on key features like Age, Income, and Spen
 
 ### 🤝 Connect with Me
 
-- LinkedIn: [Vijay patidar](www.linkedin.com/in/vijay-patidar-ai)
+- LinkedIn: [www.linkedin.com/in/vijay-patidar-ai](www.linkedin.com/in/vijay-patidar-ai)
